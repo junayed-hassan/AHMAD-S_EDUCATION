@@ -577,7 +577,7 @@ h2::after {
     .statistics-div1::after {
         width: 6.125rem;
         height: 2px;
-        bottom: 67%;
+        bottom: 66%;
         right: 42%; 
     }
 }
@@ -611,7 +611,7 @@ h2::after {
     .statistics-div2::after {
         width: 6.125rem;
         height: 2px;
-        bottom: 40%;
+        bottom: 34%;
         left: 35%;
     }
 }
