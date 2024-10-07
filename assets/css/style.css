@@ -7,7 +7,7 @@
     box-sizing: border-box; 
 }
 body {
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 :root {
     --lato-font: "Lato", sans-serif;
